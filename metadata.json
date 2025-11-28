@@ -1,0 +1,7 @@
+{
+  "name": "Deutsch Perfekt - Live AI Tutor",
+  "description": "Real-time German pronunciation and grammar feedback using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
